@@ -1,5 +1,5 @@
 package autor;
 
-public class Auto3 {
+public class Autor {
 
 }

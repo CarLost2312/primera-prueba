@@ -1,5 +1,5 @@
 package Socios;
 
-public class Socios {
+public class socios {
 
 }

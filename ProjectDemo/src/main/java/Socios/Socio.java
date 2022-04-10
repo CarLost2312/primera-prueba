@@ -1,4 +1,4 @@
-package Socio;
+package Socios;
 
 public class Socio {
 
